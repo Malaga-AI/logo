@@ -12,7 +12,7 @@
         <path d="M692.98,450.203L847.866,450.203" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:8.3px;"/>
         <path d="M578.889,997.145L964.722,997.145" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:8.3px;"/>
         <circle cx="770.423" cy="255.212" r="19.361" style="fill:none;stroke:white;stroke-width:8.3px;"/>
-        <path d="M690.319,354.782C692.488,312.044 727.971,278.03 771.46,278.03C814.949,278.03 850.433,312.044 852.601,354.782L690.319,354.782Z" style="fill:url(#_Radial1);fill-rule:nonzero;stroke:white;stroke-width:8.3px;"/>
+        <path d="M690.319,354.782C692.488,312.044 727.971,278.03 771.46,278.03C814.949,278.03 850.433,312.044 852.601,354.782L690.319,354.782Z" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:8.3px;"/>
         <rect x="708.192" y="369.302" width="22.127" height="64.305" style="fill:white;"/>
         <rect x="810.527" y="369.302" width="22.127" height="64.305" style="fill:white;"/>
         <rect x="737.924" y="369.302" width="64.997" height="64.305" style="fill:white;"/>
@@ -58,7 +58,4 @@
         <circle cx="709.229" cy="553.576" r="19.707" style="fill:rgb(24,218,227);"/>
         <circle cx="833.691" cy="553.576" r="19.707" style="fill:rgb(24,218,227);"/>
     </g>
-    <defs>
-        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0,53.9336,-46.1045,-0,771.806,332.655)"><stop offset="0" style="stop-color:rgb(24,218,227);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(24,218,227);stop-opacity:0"/></radialGradient>
-    </defs>
 </svg>
